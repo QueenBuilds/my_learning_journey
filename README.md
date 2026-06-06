@@ -1,2 +1,11 @@
-# my_learning_journey
-My first repository to track my Python and Data Science learning progress.
+# My Learning Journey 🚀
+
+Welcome to my profile! I am a beginner taking my first steps into the world of AI and Data Science. I am building in public to track my progress and stay consistent.
+
+## 🎯 My Goals
+- Learn the basics of Python 🐍
+- Understand Data Analysis with Pandas and NumPy
+- Build my first simple Machine Learning model
+
+## 📅 Log
+- **Today:** Created my GitHub account and set up this repository!
