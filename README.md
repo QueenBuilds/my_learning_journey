@@ -9,3 +9,5 @@ Welcome to my profile! I am a beginner taking my first steps into the world of A
 
 ## 📅 Log
 - **Today:** Created my GitHub account and set up this repository!
+- 8 June: Revised Python Concepts: VARIABLES,DATATYPES,OPERATORS,IF-ELSE and build a mini-project named as grade_checker.
+- 
